@@ -8,7 +8,7 @@ Rendu du TP3 : FTP - TFTP pour le groupe : Alexis L - Paul B - Enzo V
 
 - [@Alexis-Looten](https://github.com/Alexis-Looten) :  Alexis Looten
 - [@boutillier-paul](https://github.com/boutillier-paul) : Paul Boutillier
-- [@JRedxs](https://github.com/jredxs) : Enzo Vande
+- [@JRedxs](https://github.com/jredxs) : Enzo Vandevelde
 
 
 ## Documentation
